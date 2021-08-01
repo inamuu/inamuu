@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hello, I'm inamuu.
+Hello, I'm inamuu.  
 I'm working as a Software Engineer at a manufacturing industry company.
 
 ### 🌱 I’m currently learning
