@@ -10,7 +10,7 @@ I'm working as a software engineer at a manufacturing industry company.
 - AWS
 - Docker
 - Python
-- English
+- Go
 
 ### 📫 Get in touch
 
