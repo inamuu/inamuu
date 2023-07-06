@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 Hello, I'm inamuu.  
-I'm working as a software engineer at a manufacturing industry company.
+I'm a software engineer at a web services company in Tokyo.
 
 ### 🌱 I’m currently learning
 
