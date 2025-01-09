@@ -12,7 +12,7 @@ I'm a software engineer at a web services company in Tokyo.
 ### 🌱 I’m currently learning
 
 - AWS
-- Docker
+- Docker, Kubernetes
 - Python
 - Go
 
