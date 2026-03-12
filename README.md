@@ -5,7 +5,7 @@
 <h1 align="center">inamuu</h1>
 
 <p align="center">
-  Production-first software engineer in Tokyo.<br />
+  Production-first software engineer in Saitama.<br />
   I care about reliability, observability, automation, and keeping systems calm under load.
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/base-Tokyo%20%2F%20JST-111827?style=flat-square&labelColor=020617&color=334155" alt="Tokyo JST" />
+  <img src="https://img.shields.io/badge/base-Saitama%20%2F%20JST-111827?style=flat-square&labelColor=020617&color=334155" alt="Saitama JST" />
   <img src="https://img.shields.io/badge/stance-SRE%20minded-111827?style=flat-square&labelColor=020617&color=334155" alt="SRE minded" />
   <img src="https://img.shields.io/badge/focus-SLO%20driven-111827?style=flat-square&labelColor=020617&color=334155" alt="SLO driven" />
   <img src="https://img.shields.io/badge/ops-automate%20toil-111827?style=flat-square&labelColor=020617&color=334155" alt="Automate toil" />
@@ -33,7 +33,7 @@
 ```yaml
 role: software engineer
 stance: sre-minded
-location: Tokyo, Japan
+location: Saitama, Japan
 focus:
   - AWS
   - Kubernetes

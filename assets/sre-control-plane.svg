@@ -74,8 +74,8 @@
   <text x="780" y="268" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">toil</text>
   <text x="780" y="306" fill="#F8FAFC" font-size="34" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">automate</text>
 
-  <text x="998" y="268" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">region</text>
-  <text x="998" y="306" fill="#F8FAFC" font-size="34" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">ap-northeast-1</text>
+  <text x="990" y="268" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">region</text>
+  <text x="990" y="306" fill="#F8FAFC" font-size="26" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">ap-northeast-1</text>
 
   <circle cx="756" cy="388" r="4" fill="#22C55E"/>
   <text x="770" y="393" fill="#64748B" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">production-first / reliability-minded / incident-ready</text>
