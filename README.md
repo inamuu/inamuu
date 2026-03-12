@@ -37,6 +37,7 @@ location: Saitama, Japan
 focus:
   - AWS
   - Kubernetes
+  - Terraform
   - observability
   - platform automation
 languages:
@@ -59,7 +60,7 @@ mission: reduce toil and ship reliable systems
 
 - Designing boring systems that stay predictable in production
 - Turning operational knowledge into repeatable automation
-- Going deeper on AWS and Kubernetes for resilient platform design
+- Going deeper on AWS, Kubernetes, and Terraform for resilient platform design
 - Improving delivery speed without paying for it in reliability debt
 
 ## Stack
@@ -67,6 +68,7 @@ mission: reduce toil and ship reliable systems
 <p>
   <img src="https://img.shields.io/badge/cloud-AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=ff9900&labelColor=020617&color=1e293b" alt="AWS" />
   <img src="https://img.shields.io/badge/orchestration-Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=326ce5&labelColor=020617&color=1e293b" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/infra-Terraform-0f172a?style=flat-square&logo=terraform&logoColor=844FBA&labelColor=020617&color=1e293b" alt="Terraform" />
   <img src="https://img.shields.io/badge/code-Go-0f172a?style=flat-square&logo=go&logoColor=00add8&labelColor=020617&color=1e293b" alt="Go" />
   <img src="https://img.shields.io/badge/code-Python-0f172a?style=flat-square&logo=python&logoColor=ffd43b&labelColor=020617&color=1e293b" alt="Python" />
   <img src="https://img.shields.io/badge/infra-Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ed&labelColor=020617&color=1e293b" alt="Docker" />
@@ -77,7 +79,7 @@ mission: reduce toil and ship reliable systems
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=inamuu&show_icons=true&count_private=true&hide_border=true&title_color=22c55e&icon_color=f59e0b&text_color=e2e8f0&bg_color=0f172a" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamuu&layout=compact&hide_border=true&title_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&hide=html,css,scss" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamuu&layout=compact&hide_border=true&title_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&hide=html,css,scss,php" alt="Top languages" />
 </p>
 
 <details>
