@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="./assets/sre-control-plane.svg" alt="inamuu sre control plane banner" width="100%" />
-</p>
-
-<h1 align="center">inamuu</h1>
-
-<p align="center">
-  Production-first software engineer in Saitama.<br />
-  I care about reliability, observability, automation, and keeping systems calm under load.
+  <img src="./assets/sre-control-plane.svg" alt="inamuu profile hero with a bold keep systems boring message and SRE-focused metadata" width="100%" />
 </p>
 
 <p align="center">
@@ -28,22 +21,64 @@
   <img src="https://img.shields.io/badge/ops-automate%20toil-111827?style=flat-square&labelColor=020617&color=334155" alt="Automate toil" />
 </p>
 
-## Control Plane
-
 <p align="center">
-  <img src="./assets/control-plane-panel.svg" alt="Control Plane panel showing location, stance, mission, and focus areas such as AWS, Kubernetes, Terraform, and automation" width="100%" />
+  <strong>Production-first software engineer in Saitama.</strong><br />
+  Reliability, observability, Terraform, and platform automation.
 </p>
+
+> Keep systems boring. Ship small. Automate the repeatable.
+
+## Operating Manual
+
+<table>
+  <tr>
+    <td width="48%" valign="top">
+
+<h3><code>control-plane.yaml</code></h3>
+
+<pre lang="yaml"><code>
+name: inamuu
+role: software engineer
+stance: sre-minded
+base: Saitama, Japan
+timezone: JST
+focus:
+  - AWS
+  - Kubernetes
+  - Terraform
+  - observability
+  - platform automation
+mission: reduce toil and ship reliable systems
+</code></pre>
+
+  </td>
+    <td width="52%" valign="top">
+
+<h3><code>current_focus</code></h3>
+
+<ul>
+  <li>Designing boring systems that stay predictable in production</li>
+  <li>Turning operational knowledge into repeatable automation</li>
+  <li>Going deeper on AWS, Kubernetes, and Terraform every day</li>
+  <li>Increasing delivery speed without adding reliability debt</li>
+</ul>
+
+<h3><code>operating_principles</code></h3>
+
+<ul>
+  <li>Measure user impact before tuning internals</li>
+  <li>Protect the error budget and keep releases reversible</li>
+  <li>If an operation repeats, write the code that removes it</li>
+</ul>
+
+  </td>
+  </tr>
+</table>
 
 ## Reliability Loop
 
 <p align="center">
-  <img src="./assets/reliability-loop-panel.svg" alt="Reliability Loop panel showing Observe, Decide, Automate, and Recover as the main operating loop" width="100%" />
-</p>
-
-## Current Focus
-
-<p align="center">
-  <img src="./assets/current-focus-panel.svg" alt="Current Focus panel showing boring production, automation, platform depth, and delivery speed" width="100%" />
+  <img src="./assets/reliability-orbit.svg" alt="Reliability loop diagram showing Observe, Decide, Automate, and Recover around steady state" width="100%" />
 </p>
 
 ## Stack
@@ -78,13 +113,13 @@
 ## Signal
 
 <p align="center">
-  <a href="https://inamuu.com">
-    <img src="./assets/signal-writing-card.svg" alt="Writing card linking to inamuu.com" width="32%" />
-  </a>
-  <a href="https://wiki.kazuma.tokyo">
-    <img src="./assets/signal-notes-card.svg" alt="Notes card linking to wiki.kazuma.tokyo" width="32%" />
-  </a>
-  <a href="https://twitter.com/kzm0211">
-    <img src="./assets/signal-social-card.svg" alt="Social card linking to @kzm0211" width="32%" />
-  </a>
+  <img src="./assets/signal-routes.svg" alt="Signal routes diagram linking writing, notes, and social outputs" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://inamuu.com"><strong>inamuu.com</strong></a>
+  ·
+  <a href="https://wiki.kazuma.tokyo"><strong>wiki.kazuma.tokyo</strong></a>
+  ·
+  <a href="https://twitter.com/kzm0211"><strong>@kzm0211</strong></a>
 </p>

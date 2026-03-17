@@ -1,0 +1,69 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="1240" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1280" height="340" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+  </defs>
+
+  <rect x="16" y="16" width="1248" height="308" rx="28" fill="url(#bg)"/>
+  <rect x="16.5" y="16.5" width="1247" height="307" rx="27.5" stroke="#1E293B"/>
+
+  <g opacity="0.22">
+    <path d="M56 90H1224" stroke="#1E293B"/>
+    <path d="M56 150H1224" stroke="#1E293B"/>
+    <path d="M56 210H1224" stroke="#1E293B"/>
+    <path d="M56 270H1224" stroke="#1E293B"/>
+    <path d="M180 48V292" stroke="#1E293B"/>
+    <path d="M344 48V292" stroke="#1E293B"/>
+    <path d="M508 48V292" stroke="#1E293B"/>
+    <path d="M672 48V292" stroke="#1E293B"/>
+    <path d="M836 48V292" stroke="#1E293B"/>
+    <path d="M1000 48V292" stroke="#1E293B"/>
+    <path d="M1164 48V292" stroke="#1E293B"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.64">
+    <circle cx="300" cy="252" r="62" fill="#22C55E"/>
+    <circle cx="1088" cy="80" r="54" fill="#06B6D4"/>
+  </g>
+
+  <text x="56" y="54" fill="#22C55E" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" letter-spacing="2.2">RELIABILITY LOOP / KEEP THE SYSTEM CALM</text>
+
+  <ellipse cx="348" cy="186" rx="218" ry="102" stroke="#134E4A" stroke-width="2"/>
+  <ellipse cx="348" cy="186" rx="150" ry="56" stroke="#1E293B" stroke-dasharray="8 8"/>
+
+  <circle cx="348" cy="186" r="56" fill="#0F172A" stroke="#1E293B"/>
+  <text x="299" y="180" fill="#64748B" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">goal</text>
+  <text x="274" y="208" fill="#F8FAFC" font-size="24" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">steady state</text>
+
+  <circle cx="348" cy="84" r="14" fill="#22C55E"/>
+  <circle cx="566" cy="186" r="14" fill="#06B6D4"/>
+  <circle cx="348" cy="288" r="14" fill="#F59E0B"/>
+  <circle cx="130" cy="186" r="14" fill="#A78BFA"/>
+
+  <text x="298" y="122" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Observe</text>
+  <text x="510" y="178" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Decide</text>
+  <text x="307" y="328" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Automate</text>
+  <text x="58" y="178" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Recover</text>
+
+  <path d="M362 98C434 110 498 146 546 176" stroke="#22C55E" stroke-width="2"/>
+  <path d="M552 196C506 236 438 270 362 274" stroke="#06B6D4" stroke-width="2"/>
+  <path d="M334 274C258 270 192 236 144 196" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M144 176C194 142 258 108 334 98" stroke="#A78BFA" stroke-width="2"/>
+
+  <rect x="692" y="74" width="500" height="200" rx="24" fill="#0B1220" stroke="#1E293B"/>
+  <text x="728" y="112" fill="#64748B" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">runbook</text>
+
+  <text x="728" y="146" fill="#F8FAFC" font-size="26" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">01 Observe user impact first</text>
+  <text x="728" y="172" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Metrics, logs, and traces that show what users actually feel.</text>
+
+  <text x="728" y="206" fill="#F8FAFC" font-size="26" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">02 Decide with the error budget</text>
+  <text x="728" y="232" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Prefer small, reversible changes over large rollouts and intuition.</text>
+
+  <text x="728" y="266" fill="#F8FAFC" font-size="26" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">03 Automate before the next page</text>
+  <text x="728" y="292" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">If the same work shows up twice, it is already asking to become code.</text>
+</svg>
