@@ -1,0 +1,56 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="1240" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1280" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+
+  <rect x="16" y="16" width="1248" height="288" rx="28" fill="url(#bg)"/>
+  <rect x="16.5" y="16.5" width="1247" height="287" rx="27.5" stroke="#1E293B"/>
+
+  <g opacity="0.24">
+    <path d="M56 88H1224" stroke="#1E293B"/>
+    <path d="M56 152H1224" stroke="#1E293B"/>
+    <path d="M56 216H1224" stroke="#1E293B"/>
+    <path d="M180 48V272" stroke="#1E293B"/>
+    <path d="M352 48V272" stroke="#1E293B"/>
+    <path d="M524 48V272" stroke="#1E293B"/>
+    <path d="M696 48V272" stroke="#1E293B"/>
+    <path d="M868 48V272" stroke="#1E293B"/>
+    <path d="M1040 48V272" stroke="#1E293B"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.68">
+    <circle cx="208" cy="240" r="68" fill="#22C55E"/>
+    <circle cx="1040" cy="88" r="58" fill="#06B6D4"/>
+  </g>
+
+  <text x="56" y="72" fill="#22C55E" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" letter-spacing="2.1">CURRENT FOCUS / WHAT IS ON THE BOARD</text>
+  <text x="56" y="108" fill="#94A3B8" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Four areas getting the most attention right now.</text>
+
+  <rect x="56" y="136" width="564" height="64" rx="20" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="660" y="136" width="564" height="64" rx="20" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="56" y="220" width="564" height="64" rx="20" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="660" y="220" width="564" height="64" rx="20" fill="#0F172A" stroke="#1E293B"/>
+
+  <circle cx="86" cy="168" r="7" fill="#22C55E"/>
+  <circle cx="690" cy="168" r="7" fill="#06B6D4"/>
+  <circle cx="86" cy="252" r="7" fill="#F59E0B"/>
+  <circle cx="690" cy="252" r="7" fill="#A78BFA"/>
+
+  <text x="104" y="162" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Boring Production</text>
+  <text x="104" y="186" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Design systems that stay predictable under load and change.</text>
+
+  <text x="708" y="162" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Automation</text>
+  <text x="708" y="186" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Encode operational knowledge into scripts, tooling, and runbooks.</text>
+
+  <text x="104" y="246" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Platform Depth</text>
+  <text x="104" y="270" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Go deeper on AWS, Kubernetes, and Terraform for resilient platforms.</text>
+
+  <text x="708" y="246" fill="#F8FAFC" font-size="22" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Delivery Speed</text>
+  <text x="708" y="270" fill="#94A3B8" font-size="15" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Ship faster without adding reliability debt or operational noise.</text>
+</svg>

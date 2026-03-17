@@ -30,38 +30,21 @@
 
 ## Control Plane
 
-```yaml
-role: software engineer
-stance: sre-minded
-location: Saitama, Japan
-focus:
-  - AWS
-  - Kubernetes
-  - Terraform
-  - observability
-  - platform automation
-languages:
-  - Go
-  - Python
-  - TypeScript
-mission: reduce toil and ship reliable systems
-```
+<p align="center">
+  <img src="./assets/control-plane-panel.svg" alt="Control Plane panel showing location, stance, mission, and focus areas such as AWS, Kubernetes, Terraform, and automation" width="100%" />
+</p>
 
 ## Reliability Loop
 
-| Layer | What I optimize for |
-| --- | --- |
-| Observe | Metrics, logs, traces, and dashboards that explain user impact |
-| Decide | SLO-aware tradeoffs instead of intuition-only operations |
-| Automate | Scripts, tooling, and runbooks that delete repeated manual work |
-| Recover | Small blast radius, fast rollback, and calm incident response |
+<p align="center">
+  <img src="./assets/reliability-loop-panel.svg" alt="Reliability Loop panel showing Observe, Decide, Automate, and Recover as the main operating loop" width="100%" />
+</p>
 
 ## Current Focus
 
-- Designing boring systems that stay predictable in production
-- Turning operational knowledge into repeatable automation
-- Going deeper on AWS, Kubernetes, and Terraform for resilient platform design
-- Improving delivery speed without paying for it in reliability debt
+<p align="center">
+  <img src="./assets/current-focus-panel.svg" alt="Current Focus panel showing boring production, automation, platform depth, and delivery speed" width="100%" />
+</p>
 
 ## Stack
 
@@ -94,6 +77,14 @@ mission: reduce toil and ship reliable systems
 
 ## Signal
 
-- Writing: [inamuu.com](https://inamuu.com)
-- Notes: [wiki.kazuma.tokyo](https://wiki.kazuma.tokyo)
-- Social: [@kzm0211](https://twitter.com/kzm0211)
+<p align="center">
+  <a href="https://inamuu.com">
+    <img src="./assets/signal-writing-card.svg" alt="Writing card linking to inamuu.com" width="32%" />
+  </a>
+  <a href="https://wiki.kazuma.tokyo">
+    <img src="./assets/signal-notes-card.svg" alt="Notes card linking to wiki.kazuma.tokyo" width="32%" />
+  </a>
+  <a href="https://twitter.com/kzm0211">
+    <img src="./assets/signal-social-card.svg" alt="Social card linking to @kzm0211" width="32%" />
+  </a>
+</p>
