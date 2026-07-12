@@ -3,6 +3,7 @@
     .title { font: 600 18px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #f8fafc; }
     .text { font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #94a3b8; }
     .label { font: 600 11px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1px; }
+    .tech { font: 600 12px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #cbd5e1; }
   </style>
 
   <rect x="1" y="1" width="302" height="208" rx="8" fill="#111827" stroke="#273449"/>
@@ -23,9 +24,20 @@
 
   <rect x="657" y="1" width="302" height="208" rx="8" fill="#111827" stroke="#273449"/>
   <rect x="657" y="1" width="302" height="4" rx="2" fill="#fbbf24"/>
-  <text x="681" y="40" class="label" fill="#fbbf24">TOOLS</text>
+  <text x="681" y="40" class="label" fill="#fbbf24">TECH STACK</text>
   <text x="681" y="76" class="title">Cloud &amp; code</text>
-  <text x="681" y="110" class="text">Terraform · Docker</text>
-  <text x="681" y="137" class="text">Go · Python</text>
-  <text x="681" y="164" class="text">Infrastructure as code</text>
+
+  <rect x="681" y="96" width="48" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="693" y="115" class="tech">AWS</text>
+  <rect x="737" y="96" width="91" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="749" y="115" class="tech">Kubernetes</text>
+  <rect x="836" y="96" width="83" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="848" y="115" class="tech">Terraform</text>
+
+  <rect x="681" y="134" width="38" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="693" y="153" class="tech">Go</text>
+  <rect x="727" y="134" width="62" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="739" y="153" class="tech">Python</text>
+  <rect x="797" y="134" width="62" height="28" rx="5" fill="#1e293b" stroke="#334155"/>
+  <text x="809" y="153" class="tech">Docker</text>
 </svg>
