@@ -8,7 +8,7 @@ Software engineer in Saitama, Japan.
 
 I build reliable infrastructure and developer platforms.
 
-<img src="./assets/profile-cards.svg" alt="Focus, approach, and tools" width="100%" />
+<img src="./assets/profile-cards.svg?v=2" alt="Focus, approach, and tech stack" width="100%" />
 
 ---
 
