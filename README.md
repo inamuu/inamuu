@@ -5,28 +5,34 @@ platforms that support them.
 
 [Blog](https://inamuu.com) · [Wiki](https://wiki.kazuma.tokyo) · [X](https://twitter.com/kzm0211)
 
-## About
+## What I Do
 
 My work is centered on site reliability engineering, cloud infrastructure,
 and platform automation. I prefer small, reversible changes and systems that
 stay predictable in production.
 
-Currently focused on:
-
-- AWS and Kubernetes
-- Terraform and infrastructure as code
-- Observability and SLO-driven operations
-- Automating repetitive operational work
-
-## Principles
-
-- Measure what users experience before tuning internals.
-- Keep releases small, reversible, and easy to understand.
-- Turn repeated operations into code.
-
-## Tools
-
-`AWS` `Kubernetes` `Terraform` `Go` `Python` `Docker`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Focus</strong><br /><br />
+      AWS & Kubernetes<br />
+      Infrastructure as code<br />
+      Observability & SLOs
+    </td>
+    <td width="33%" valign="top">
+      <strong>Principles</strong><br /><br />
+      Measure user impact<br />
+      Ship reversible changes<br />
+      Automate repeated work
+    </td>
+    <td width="34%" valign="top">
+      <strong>Stack</strong><br /><br />
+      <code>Terraform</code> <code>Go</code><br />
+      <code>Python</code> <code>Docker</code><br />
+      <code>AWS</code> <code>Kubernetes</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
